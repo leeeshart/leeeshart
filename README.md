@@ -1,7 +1,5 @@
-- 👋 Hi, I’m Leesha
-- 👀 I’m interested in arts, writing, psychology and coding.
-- 🌱 I’m currently learning web development and AI.
-- 💞️ I’m looking to collaborate on my project "psychology and AI".
+- 👋 Hi, I’m Leesha Mogha.
+- 🌱 I’m currently learning web development,Python and C++.
 - 📫 You can email me at leeshamogha99@gmail.com
 
 
