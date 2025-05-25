@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Leesha Mogha.
 - 🌱 I’m currently learning web development,Python and C++.
-- 📫 You can email me at leeshamogha99@gmail.com
+- 📫 You can email me at leeshamogha0@gmail.com
 
 
 
