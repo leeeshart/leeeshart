@@ -13,7 +13,7 @@ Lately I've been drawn to **AI safety**: how LLMs respond to prompts, where hall
 
 ---
 
-## 🔭 What I'm working on
+## What I'm working on
 
 - Building ML projects from scratch to understand models at a deeper level
 - Exploring prompt behaviour, injection risks, and hallucination patterns in LLMs
@@ -35,23 +35,16 @@ Lately I've been drawn to **AI safety**: how LLMs respond to prompts, where hall
 
 ---
 
-## 🚀 Featured projects
+## Featured projects
 
-### Prompt-Safety-Classifier (https://github.com/leeeshart/Prompt-Safety-Classifier)
+### Prompt-Safety-Classifier(https://github.com/leeeshart/Prompt-Safety-Classifier)
 > A system that classifies LLM inputs as safe, unsafe, or suspicious. Explores prompt injection patterns and hallucination triggers in large language models.
 
 `Python` · `LLMs` · `NLP` · `Transformers`
 
 ---
 
-### 📊 [ML Project from Scratch](link-to-repo)
-> Built end-to-end without high-level wrappers — focus on understanding model internals, not just accuracy scores. Includes full data pipeline, training loop, and evaluation.
-
-`Python` · `Scikit-learn` · `Pandas` · `NumPy`
-
----
-
-### Ecommerce-sales-data-analysis- (https://github.com/leeeshart/Ecommerce-sales-data-analysis-)
+### Ecommerce-sales-data-analysis-(https://github.com/leeeshart/Ecommerce-sales-data-analysis-)
 > Exploratory data analysis with visualisations — patterns, surprises, and what the data actually reveals beyond the summary stats.
 
 `Pandas` · `Matplotlib` · `SQL`
