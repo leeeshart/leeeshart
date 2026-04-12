@@ -37,14 +37,14 @@ Lately I've been drawn to **AI safety**: how LLMs respond to prompts, where hall
 
 ## Featured projects
 
-### Prompt-Safety-Classifier(https://github.com/leeeshart/Prompt-Safety-Classifier)
+### Prompt-Safety-Classifier[https://github.com/leeeshart/Prompt-Safety-Classifier]
 > A system that classifies LLM inputs as safe, unsafe, or suspicious. Explores prompt injection patterns and hallucination triggers in large language models.
 
 `Python` · `LLMs` · `NLP` · `Transformers`
 
 ---
 
-### Ecommerce-sales-data-analysis-(https://github.com/leeeshart/Ecommerce-sales-data-analysis-)
+### Ecommerce-sales-data-analysis-[https://github.com/leeeshart/Ecommerce-sales-data-analysis-]
 > Exploratory data analysis with visualisations — patterns, surprises, and what the data actually reveals beyond the summary stats.
 
 `Pandas` · `Matplotlib` · `SQL`
