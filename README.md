@@ -1,3 +1,6 @@
+<img src="./Kirby.gif" width="280" align="right" />
+
+<div align="center">
 <!-- Banner -->
 <div align="center">
 
@@ -15,7 +18,7 @@
 
 ## Research
 
-### [🔒 Prompt-Safety-Classifier](https://github.com/leeeshart/Prompt-Safety-Classifier)
+###  Prompt-Safety-Classifier](https://github.com/leeeshart/Prompt-Safety-Classifier)
 
 A 3-version research project on detecting prompt injection in LLMs — documented honestly, including a version that failed in an instructive way.
 
