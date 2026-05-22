@@ -1,4 +1,4 @@
-<img src="./Kirby.gif" width="150" align="right" />
+<img src="./Kirby.gif" width="100%" />
 
 <div align="center">
 
