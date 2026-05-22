@@ -1,13 +1,9 @@
 <img src="./Kirby.gif" width="280" align="right" />
 
 <div align="center">
-<!-- Banner -->
-<div align="center">
 
-<!-- Typing SVG -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FFB6C1&center=true&vCenter=true&width=500&lines=AI+Safety+Researcher;Understanding+minds+%E2%80%94+human+%26+artificial;Building+to+understand;Breaking+models%2C+not+people)](https://git.io/typing-svg)
 
-<!-- Badges -->
 ![Open to internships](https://img.shields.io/badge/Open%20to-Internships-FFB6C1?style=flat-square&labelColor=1a0a0f&color=ff8fab)
 ![AI Safety](https://img.shields.io/badge/Interested%20in-AI%20Safety-FFB6C1?style=flat-square&labelColor=1a0a0f&color=ff8fab)
 ![Location](https://img.shields.io/badge/Location-Uttar%20Pradesh%2C%20India-FFB6C1?style=flat-square&labelColor=1a0a0f&color=ff8fab)
@@ -18,7 +14,7 @@
 
 ## Research
 
-###  Prompt-Safety-Classifier](https://github.com/leeeshart/Prompt-Safety-Classifier)
+### [ Prompt-Safety-Classifier](https://github.com/leeeshart/Prompt-Safety-Classifier)]
 
 A 3-version research project on detecting prompt injection in LLMs — documented honestly, including a version that failed in an instructive way.
 
