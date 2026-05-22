@@ -18,7 +18,7 @@
 
 <h3><a href="https://github.com/leeeshart/Prompt-Safety-Classifier"><font color="#FFB6C1"> Prompt-Safety-Classifier</font></a></h3>
 
-<font color="#FFB6C1">A 3-version research project on detecting prompt injection in LLMs — documented honestly, including a version that failed in an instructive way.</font>
+<font color="#FFB6C1">Intent-aware detection of prompt injection in Large Language Models — catches roleplay, persona-switching, and fictional framing attacks.</font>
 
 <font color="#FFB6C1"><b>Dataset:</b> TrustAIRLab In-The-Wild Jailbreak Prompts (6,387 real-world prompts from Reddit, Discord, and jailbreak communities) · Published at CCS 2024</font>
 
