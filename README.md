@@ -1,20 +1,21 @@
-# Leesha Mogha
+<!-- Banner -->
+<div align="center">
 
-**ML student · AI safety researcher · Building to understand**
+<!-- Typing SVG -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FFB6C1&center=true&vCenter=true&width=500&lines=AI+Safety+Researcher;Understanding+minds+%E2%80%94+human+%26+artificial;Building+to+understand;Breaking+models%2C+not+people)](https://git.io/typing-svg)
 
-I learn by building — not just running code, but understanding what's happening inside models and why they fail.
+<!-- Badges -->
+![Open to internships](https://img.shields.io/badge/Open%20to-Internships-FFB6C1?style=flat-square&labelColor=1a0a0f&color=ff8fab)
+![AI Safety](https://img.shields.io/badge/Interested%20in-AI%20Safety-FFB6C1?style=flat-square&labelColor=1a0a0f&color=ff8fab)
+![Location](https://img.shields.io/badge/Location-Uttar%20Pradesh%2C%20India-FFB6C1?style=flat-square&labelColor=1a0a0f&color=ff8fab)
 
-My main work is a multi-version research project on prompt injection detection in LLMs: how attackers use roleplay, fictional framing, and persona-switching to bypass safety filters, and how far classical ML can go before it hits a fundamental wall.
-
-![Open to internships](https://img.shields.io/badge/Open%20to-Internships-0078D4?style=flat-square)
-![AI Safety](https://img.shields.io/badge/Interested%20in-AI%20Safety-1D9E75?style=flat-square)
-![Location](https://img.shields.io/badge/Location-Uttar%20Pradesh%2C%20India-lightgrey?style=flat-square)
+</div>
 
 ---
 
 ## Research
 
-### [Prompt-Safety-Classifier](https://github.com/leeeshart/Prompt-Safety-Classifier)
+### [🔒 Prompt-Safety-Classifier](https://github.com/leeeshart/Prompt-Safety-Classifier)
 
 A 3-version research project on detecting prompt injection in LLMs — documented honestly, including a version that failed in an instructive way.
 
@@ -25,22 +26,19 @@ A 3-version research project on detecting prompt injection in LLMs — documente
 
 **v1 — Baseline TF-IDF classifier**
 - Hit 93% accuracy immediately. The number was misleading — the model was missing 48% of all unsafe prompts while appearing to perform well.
-- Key finding: `class_weight='balanced'` pushed unsafe recall from 52% → 85% with zero accuracy loss. For safety-critical classifiers, recall on the harmful class matters far more than overall accuracy.
-- Introduced a 3-category system (Safe / Suspicious / Unsafe) using probability thresholds — prevents both over-blocking educational content and under-blocking ambiguous prompts.
-- Discovered vocabulary bias: common question words like "how" and "does" accumulated unsafe weight because they appear frequently in jailbreak prompts.
+- Key finding: `class_weight='balanced'` pushed unsafe recall from 52% → 85% with zero accuracy loss.
+- Introduced a 3-category system (Safe / Suspicious / Unsafe) using probability thresholds.
+- Discovered vocabulary bias: common question words like "how" and "does" accumulated unsafe weight.
 
 **v2 — Intent-aware detection (best model)**
-- Added two layers on top of TF-IDF: hand-crafted structural patterns (persona flags, fiction-frame detection, override language) and sentence embeddings (`all-MiniLM-L6-v2`).
-- Ablation study confirmed each layer's contribution independently.
+- Added two layers on top of TF-IDF: hand-crafted structural patterns + sentence embeddings (`all-MiniLM-L6-v2`).
 - Combined model: **93.7% accuracy · 87.1% unsafe recall** (5,389 features total).
-- Deployed to Streamlit. Discovered that probability thresholds calibrated during training didn't transfer — the minority class prior compressed all scores into 0.01–0.50. Recalibrated empirically.
+- Deployed to Streamlit. Discovered probability threshold calibration issues at deployment.
 
 **v3 — Transformer experiment (documented negative result)**
-- Hypothesis: WordPiece tokenization would fix morphology failures (`bomb` ≠ `bombs` in TF-IDF), and attention would catch roleplay attacks.
-- Tested two purpose-built transformers: `protectai/deberta-v3-base-prompt-injection-v2` (~600K training examples) and `jackhhao/jailbreak-classification`.
+- Tested `protectai/deberta-v3-base-prompt-injection-v2` and `jackhhao/jailbreak-classification`.
 - Result: both models scored direct harmful requests as SAFE with 1.0000 confidence.
-- Finding: both models were trained to detect **prompt injection** (hijacking agentic pipelines), not harmful request detection. A direct question is not an injection attack by their definition. Dataset alignment matters more than model sophistication.
-- v2 remains the best-performing model for this task.
+- Finding: dataset alignment matters more than model sophistication. v2 remains best.
 
 | Version | Unsafe recall | Catches direct harmful requests | Catches injection attacks |
 |---|---|---|---|
@@ -55,19 +53,28 @@ A 3-version research project on detecting prompt injection in LLMs — documente
 
 ---
 
-### [Ecommerce Sales Analysis](https://github.com/leeeshart/Ecommerce-sales-data-analysis-)
+## Stack
 
-Exploratory data analysis going beyond summary stats — patterns, outliers, and what the data actually says.
+![Python](https://img.shields.io/badge/Python-FFB6C1?style=flat-square&logo=python&logoColor=1a0a0f)
+![SQL](https://img.shields.io/badge/SQL-FFB6C1?style=flat-square&logo=postgresql&logoColor=1a0a0f)
+![NumPy](https://img.shields.io/badge/NumPy-FFB6C1?style=flat-square&logo=numpy&logoColor=1a0a0f)
+![Pandas](https://img.shields.io/badge/Pandas-FFB6C1?style=flat-square&logo=pandas&logoColor=1a0a0f)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-FFB6C1?style=flat-square&logo=python&logoColor=1a0a0f)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-FFB6C1?style=flat-square&logo=scikit-learn&logoColor=1a0a0f)
 
-`Pandas` `Matplotlib` `SQL`
+**Focus:** LLMs · AI Safety · Human Psychology · Prompt Engineering · NLP
 
 ---
 
-## Stack
+## GitHub Stats
 
-`Python` `SQL` `NumPy` `Pandas` `Matplotlib` `Scikit-learn`
+<div align="center">
 
-Focus: LLMs · AI Safety · Prompt Engineering · NLP
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=leeeshart&show_icons=true&theme=dark&title_color=FFB6C1&icon_color=ff8fab&text_color=ffccd5&bg_color=0d0d0d&border_color=ff8fab55)](https://github.com/leeeshart)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=leeeshart&theme=dark&background=0d0d0d&ring=FFB6C1&fire=ff8fab&currStreakLabel=FFB6C1&sideLabels=ff8fab&dates=ffccd5&border=ff8fab55)](https://github.com/leeeshart)
+
+</div>
 
 ---
 
@@ -79,8 +86,12 @@ IMS Ghaziabad — University Courses Campus · BCA 2nd Year
 
 ## Connect
 
-[LinkedIn](https://www.linkedin.com/in/leeshamogha) · leeshamogha7@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-FFB6C1?style=flat-square&logo=linkedin&logoColor=1a0a0f)](https://www.linkedin.com/in/leeshamogha)
+[![Discord](https://img.shields.io/badge/Discord-FFB6C1?style=flat-square&logo=discord&logoColor=1a0a0f)](https://discord.com/users/leeeshart)
+[![Email](https://img.shields.io/badge/Email-FFB6C1?style=flat-square&logo=gmail&logoColor=1a0a0f)](mailto:leeshamogha7@gmail.com)
 
-> *"I learn by building, breaking things, and documenting what actually happened — including the failures."*
+---
 
-
+<div align="center">
+<i>"I learn by building, breaking things, and documenting what actually happened — including the failures."</i>
+</div>
