@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=FFB6C1&center=true&vCenter=true&width=435&lines=AI+Safety+Researcher;Understanding+minds+%E2%80%94+human+%26+artificial;Building+to+understand;Breaking+models%2C+not+people)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=FFB6C1&center=true&vCenter=true&width=435&lines=AI+Safety+Researcher;Building+to+understand)](https://git.io/typing-svg)
 
 <br/>
 
@@ -16,7 +16,7 @@
 
 <h2><font color="#FFB6C1">Research</font></h2>
 
-<h3><a href="https://github.com/leeeshart/Prompt-Safety-Classifier"><font color="#FFB6C1">🔒 Prompt-Safety-Classifier</font></a></h3>
+<h3><a href="https://github.com/leeeshart/Prompt-Safety-Classifier"><font color="#FFB6C1"> Prompt-Safety-Classifier</font></a></h3>
 
 <font color="#FFB6C1">A 3-version research project on detecting prompt injection in LLMs — documented honestly, including a version that failed in an instructive way.</font>
 
