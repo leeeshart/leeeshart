@@ -14,7 +14,7 @@
 
 ---
 
-<h2><font color="#FFB6C1">Research</font></h2>
+<h2><font color="#ff8fab">Research</font></h2>
 
 <h3><a href="https://github.com/leeeshart/Prompt-Safety-Classifier"><font color="#FFB6C1"> Prompt-Safety-Classifier</font></a></h3>
 
