@@ -3,7 +3,7 @@
   <tr>
     <td style="border:2px solid #d4607a;" valign="middle">
       <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=FFB6C1&vCenter=true&width=435&lines=Hi+.+.+.;I+am+Leesha;Welcome+to+my+Github+Profile" />
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=FFB6C1&vCenter=true&width=435&lines=Hi+.+.+.;I+am+Leesha;Welcome+to+my+Profile" />
       </a>
     </td>
     <td style="border:2px solid #d4607a;" align="right" valign="middle" width="45%">
@@ -14,11 +14,25 @@
   </tr>
 </table>
 
----
+
 
 <img src="./leesha.svg" width="100%" />
 
----
+
+
+### A Little About Me
+<font color="#FFB6C1">
+
+I'm Leesha
+an independent AI safety researcher focusing on prompt injection and LLM behavior.
+My recent works are <a href="https://github.com/leeeshart/Prompt-Safety-Classifier"><font color="#ff8fab">Prompt-Safety-Classifier</font></a> and <a href="https://github.com/leeeshart/PromptSentinel"><font color="#ff8fab">PromptSentinel</font></a>.
+I'm also leading Helix at <a href="https://www.linkedin.com/company/synthica-org/"><font color="#ff8fab">Synthica</font></a> , a research chapter for high school and college students, who are curious but don't know where to start.
+If even one person walks away thinking differently about research, that's enough for me.
+
+</font>
+
+
+<img src="./img3.png" width="25%" align="right" />
 
 <p align="left">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31rlj6bx5ajvicym2h5rzc3ou2hq&redirect=true">
@@ -26,7 +40,6 @@
   </a>
 </p>
 
----
 
 <h2><font color="#FFB6C1">Stack</font></h2>
 
@@ -39,7 +52,7 @@
 
 <font color="#FFB6C1"><b>Focus:</b> LLMs · AI Safety · Human Psychology · Prompt Engineering · NLP</font>
 
----
+
 
 <h2><font color="#FFB6C1">GitHub Stats</font></h2>
 
@@ -51,7 +64,6 @@
 
 </div>
 
----
 
 <h2><font color="#FFB6C1">Connect</font></h2>
 
