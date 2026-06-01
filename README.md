@@ -45,9 +45,9 @@
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=leeeshart&show_icons=true&hide_border=true&title_color=FFB6C1&icon_color=ff8fab&text_color=FFB6C1&bg_color=0d0d0d)](https://github.com/leeeshart)
+[![GitHub Streak]( https://github-readme-stats.vercel.app/api?username=leeeshart&show_icons=true&hide_border=true&title_color=FFB6C1&icon_color=ff8fab&text_color=ff1493&bg_color=0d0d0d)](https://github.com/leeeshart)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=leeeshart&hide_border=true&background=0d0d0d&ring=FFB6C1&fire=ff8fab&currStreakLabel=FFB6C1&sideLabels=ff8fab&dates=ffccd5)](https://github.com/leeeshart)
+
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=leeeshart&bg_color=0d0d0d&color=FFB6C1&line=ff8fab&point=FFB6C1&area=true&hide_border=true)](https://github.com/leeeshart)
 
