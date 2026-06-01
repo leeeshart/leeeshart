@@ -4,11 +4,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=FFB6C1&center=true&vCenter=true&width=435&lines=AI+Safety+Researcher;Building+to+understand)](https://git.io/typing-svg)
 
-<br/>
-
-![Open to internships](https://img.shields.io/badge/Open%20to-Internships-FFB6C1?style=flat-square&labelColor=1a0a0f&color=ff8fab)
-![AI Safety](https://img.shields.io/badge/Interested%20in-AI%20Safety-FFB6C1?style=flat-square&labelColor=1a0a0f&color=ff8fab)
-![Location](https://img.shields.io/badge/Location-Uttar%20Pradesh%2C%20India-FFB6C1?style=flat-square&labelColor=1a0a0f&color=ff8fab)
 
 </div>
 
