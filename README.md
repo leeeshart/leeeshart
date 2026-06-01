@@ -20,6 +20,14 @@
 
 ---
 
+<p align="left">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31rlj6bx5ajvicym2h5rzc3ou2hq&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31rlj6bx5ajvicym2h5rzc3ou2hq&cover_image=true&theme=spotify-embed&show_offline=false&background_color=0d0010&interchange=false&profanity=false&hide_remaster=false&bar_color=FFB6C1&bar_color_cover=false&mode=dark">
+  </a>
+</p>
+
+---
+
 <h2><font color="#FFB6C1">Stack</font></h2>
 
 ![Python](https://img.shields.io/badge/Python-FFB6C1?style=flat-square&logo=python&logoColor=1a0a0f)
