@@ -1,0 +1,9 @@
+<svg viewBox="0 0 520 160" xmlns="http://www.w3.org/2000/svg">
+  <rect width="520" height="160" rx="8" fill="#0d0d0d"/>
+  <text font-family="Fira Code, monospace" font-size="14" fill="#FFB6C1">
+    <tspan x="20" dy="30">class Leesha:</tspan>
+    <tspan x="20" dy="22">    interests = ["Research", "AI Safety", "Communities"]</tspan>
+    <tspan x="20" dy="22">    current_status = "Following a question too far"</tspan>
+    <tspan x="20" dy="22">    side_effect = "Making others do the same"</tspan>
+  </text>
+</svg>
