@@ -1,10 +1,18 @@
-<img src="./Kirby.gif" width="100%" length="30%" />
-
-<div align="center">
-  <img src="./pink.png" width="15%" align="right" />
-  
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=FFB6C1&center=true&vCenter=true&width=435&lines=Hi+I+am+Leesha)](https://git.io/typing-svg)
-</div>
+<img src="./Kirby.gif" width="100%" />
+<table style="border:none;border-collapse:collapse;" width="100%">
+  <tr>
+    <td style="border:2px solid #d4607a;" valign="middle">
+      <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=FFB6C1&vCenter=true&width=435&lines=Hi+.+.+.;I+am+Leesha;Welcome+to+my+github" />
+      </a>
+    </td>
+    <td style="border:2px solid #d4607a;" align="right" valign="middle" width="45%">
+      <img src="./pink.png" width="32%" />
+      <img src="./pink.png" width="32%" />
+      <img src="./pink.png" width="32%" />
+    </td>
+  </tr>
+</table>
 
 ---
 
