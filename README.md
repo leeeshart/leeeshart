@@ -1,10 +1,9 @@
-<img src="./Kirby.gif" width="100%" />
+<img src="./Kirby.gif" width="100%" length="30%" />
 
 <div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=FFB6C1&center=true&vCenter=true&width=435&lines=Hi+I+am+Leesha)](https://git.io/typing-svg)
-
-
+  <img src="./pink.png" width="15%" align="right" />
+  
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=FFB6C1&center=true&vCenter=true&width=435&lines=Hi+I+am+Leesha)](https://git.io/typing-svg)
 </div>
 
 ---
