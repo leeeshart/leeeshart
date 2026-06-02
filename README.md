@@ -32,7 +32,7 @@ If even one person walks away thinking differently about research, that's enough
 </font>
 
 
-<img src="./img3.png" width="25%" align="right" />
+<img src="./fly.png" width="25%" align="right" />
 
 <p align="left">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31rlj6bx5ajvicym2h5rzc3ou2hq&redirect=true">
