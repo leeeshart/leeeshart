@@ -63,10 +63,12 @@ If even one person walks away thinking differently about research, that's enough
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=leeeshart&bg_color=0d0d0d&color=FFB6C1&line=ff8fab&point=FFB6C1&area=true&hide_border=true)](https://github.com/leeeshart)
 
 
-<img src="./bye.png" width="25%" align="right" />
+
 </div>
 
-
+<img src="./bye.png" width="10%" align="right" />
+<img src="./bye.png" width="10%" align="right" />
+<img src="./bye.png" width="10%" align="right" />
 
 <h2><font color="#FFB6C1">Connect</font></h2>
 
