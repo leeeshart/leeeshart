@@ -58,8 +58,6 @@ If even one person walks away thinking differently about research, that's enough
 
 <div align="center">
 
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=leeeshart&show_icons=true&hide_border=true&title_color=FFB6C1&icon_color=ff8fab&text_color=ff1493&bg_color=0d0d0d" />
-
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=leeeshart&bg_color=0d0d0d&color=FFB6C1&line=ff8fab&point=FFB6C1&area=true&hide_border=true)](https://github.com/leeeshart)
 
 
